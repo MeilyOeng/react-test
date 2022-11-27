@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        React APP With WebHook Version 2
+        React APP With WebHook Version 2 and Worker
         </p>
         <a
           className="App-link"
